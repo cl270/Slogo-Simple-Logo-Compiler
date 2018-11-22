@@ -1,5 +1,5 @@
 # Slogo (Simple Logo) Compiler written in Java
 
-Object Oriented Java-Environment that compiles SLogo code.
+Object Oriented Java based compiler of SLogo code.
 
 Group project from CompSci 308 at Duke University
