@@ -1,3 +1,5 @@
-# slogo
+# Slogo (Simple Logo) Compiler written in Java
 
-A development environment that helps users write SLogo programs.
+Object Oriented Java-Environment that compiles SLogo code.
+
+Group project from CompSci 308 at Duke University
