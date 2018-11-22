@@ -34,7 +34,7 @@ public class Node extends Command {
 		return type;
 	}
 	public void setCond1(Executor e){
-		System.out.println("Here: " + e.NodeList.get(0).value.toString());
+		//System.out.println("Here: " + e.NodeList.get(0).value.toString());
 		c1 = e;
 	}
 	
